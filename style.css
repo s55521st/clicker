@@ -1,0 +1,11 @@
+h3 {
+  width: 180px;
+  text-align: center; /*テキストの位置*/
+  margin: 4px;
+}
+#left {/*idの場合は#*/
+  color: blue;
+}
+#right {
+  color: red;
+}
